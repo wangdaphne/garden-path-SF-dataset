@@ -1,0 +1,289 @@
+Dataset,Index,Type,Ambiguity,Modified,Stimulus
+Grodner,0,S,A,0,The employees/understood/the contract/would be changed/very soon to accommodate all parties
+Grodner,1,S,A,0,The mechanic/accepted/the car/looked in worse/shape than before he worked on it.
+Grodner,2,S,A,0,The old man/recalled/the nurse/had complained to/the doctor that the patient never took his medication.
+Grodner,3,S,A,0,The traveler/heard/the clock/had woken everybody/up in the youth hostel.
+Grodner,4,S,A,0,The journalist/confirmed/the story/would be published/on the front page the next day.
+Grodner,5,S,A,0,The worker/maintained/the walls/fell down in/a heap before he arrived.
+Grodner,6,S,A,0,The apprentice/forgot/the bicycle/was standing in/the garage next to the car.
+Grodner,7,S,A,0,The committee/mentioned/the issue/would cause a/problem at the meeting.
+Grodner,8,S,A,0,The army/found/the supplies/saved many lives/during the long conflict.
+Grodner,9,S,A,0,The umpire/warned/the spectators/would probably get/too rowdy if beer was served.
+Grodner,10,S,A,0,The coach/discovered/the player/tried to show/off all the time.
+Grodner,11,S,A,0,The woman/noticed/the flyer/had the wrong/address listed on the front.
+Grodner,12,S,A,0,The tourists/saw/the palace/was being restored/to its original condition.
+Grodner,13,S,A,0,The scientist/proved/the theory/could help build/cars with better mileage.
+Grodner,14,S,A,0,The soldiers/remembered/the town/had been flattened/in the bombing raid.
+Grodner,15,S,A,0,The priest/recognized/two guests/were necessary for/the marriage to be legal.
+Grodner,16,S,A,0,The reporter/revealed/the politician/received some payments/from the unscrupulous millionaire.
+Grodner,17,S,A,0,The owners/insured/the house/would never get/flooded again when it rained.
+Grodner,18,S,A,0,The lawyer/established/the alibi/was not sufficient/to free the defendant from blame.
+Grodner,19,S,A,0,The store/guaranteed/the television/would last for/ten years without failing.
+Grodner,20,Z,A,0,Even though the band/left/the party/went on for/at least another two hours.
+Grodner,21,Z,A,0,In case the executive/forgot/the assistant/would remind him/of his daily meetings and appointments.
+Grodner,22,Z,A,0,Although the maid/cleaned/the house/was still in/a state of total chaos.
+Grodner,23,Z,A,0,Because the class/failed/the exam/was rewritten by/the teacher so it was much easier.
+Grodner,24,Z,A,0,Once the child/played/the piano/was moved to/the corner of the room.
+Grodner,25,Z,A,0,As the couple/danced/the tango/began to be/played by a live orchestra.
+Grodner,26,Z,A,0,After the kids/cheated/the teacher/had them sit/at separate desks and think about what they had done.
+Grodner,27,Z,A,0,After the mugger/attacked/the jogger/was rubbing his/sore leg but it didn't help.
+Grodner,28,Z,A,0,Even though the girl/phoned/the instructor/was very upset/with her for missing a lesson.
+Grodner,29,Z,A,0,Even though the janitor/vacuumed/the carpet/was covered with/dust and crumbs from the office party.
+Grodner,30,Z,A,0,Although the candidates/debated/the issues/were overlooked by/most of the media who covered the campaign.
+Grodner,31,Z,A,0,Because the train/stopped/the traffic/was rerouted through/side streets for several hours.
+Grodner,32,Z,A,0,In case the team/lost/the tie-breaker/was scheduled for/the following week at the local park.
+Grodner,33,Z,A,0,After the librarian/called/the intern/began returning books/to the shelves.
+Grodner,34,Z,A,0,Even though the army/surrendered/the territory/was filled with/land mines that still had to be cleared.
+Grodner,35,Z,A,0,While the narrator/read/the story/was dramatized by/the troop of skilled actors.
+Grodner,36,Z,A,0,Before the tribe/worshipped/the idol/was placed on/a large platform.
+Grodner,37,Z,A,0,In case the manager/quit/the company/began training new/staff in several departments.
+Grodner,38,Z,A,0,As the customer/paid/the waitress/could see how/large the tip was.
+Grodner,39,Z,A,0,While the artist/painted/the furniture/was covered with/white cloths to shield it from dust.
+Grodner,0,S,U,0,The employees/understood/that/the contract/would be changed/very soon to accommodate all parties
+Grodner,1,S,U,0,The mechanic/accepted/that/the car/looked in worse/shape than before he worked on it.
+Grodner,2,S,U,0,The old man/recalled/that/the nurse/had complained to/the doctor that the patient never took his medication.
+Grodner,3,S,U,0,The traveler/heard/that/the clock/had woken everybody/up in the youth hostel.
+Grodner,4,S,U,0,The journalist/confirmed/that/the story/would be published/on the front page the next day.
+Grodner,5,S,U,0,The worker/maintained/that/the walls/fell down in/a heap before he arrived.
+Grodner,6,S,U,0,The apprentice/forgot/that/the bicycle/was standing in/the garage next to the car.
+Grodner,7,S,U,0,The committee/mentioned/that/the issue/would cause a/problem at the meeting.
+Grodner,8,S,U,0,The army/found/that/the supplies/saved many lives/during the long conflict.
+Grodner,9,S,U,0,The umpire/warned/that/the spectators/would probably get/too rowdy if beer was served.
+Grodner,10,S,U,0,The coach/discovered/that/the player/tried to show/off all the time.
+Grodner,11,S,U,0,The woman/noticed/that/the flyer/had the wrong/address listed on the front.
+Grodner,12,S,U,0,The tourists/saw/that/the palace/was being restored/to its original condition.
+Grodner,13,S,U,0,The scientist/proved/that/the theory/could help build/cars with better mileage.
+Grodner,14,S,U,0,The soldiers/remembered/that/the town/had been flattened/in the bombing raid.
+Grodner,15,S,U,0,The priest/recognized/that/two guests/were necessary for/the marriage to be legal.
+Grodner,16,S,U,0,The reporter/revealed/that/the politician/received some payments/from the unscrupulous millionaire.
+Grodner,17,S,U,0,The owners/insured/that/the house/would never get/flooded again when it rained.
+Grodner,18,S,U,0,The lawyer/established/that/the alibi/was not sufficient/to free the defendant from blame.
+Grodner,19,S,U,0,The store/guaranteed/that/the television/would last for/ten years without failing.
+Grodner,20,Z,U,0,"Even though the band/left,/the party/went on for/at least another two hours."
+Grodner,21,Z,U,0,"In case the executive/forgot,/the assistant/would remind him/of his daily meetings and appointments."
+Grodner,22,Z,U,0,"Although the maid/cleaned,/the house/was still in/a state of total chaos."
+Grodner,23,Z,U,0,"Because the class/failed,/the exam/was rewritten by/the teacher so it was much easier."
+Grodner,24,Z,U,0,"Once the child/played,/the piano/was moved to/the corner of the room."
+Grodner,25,Z,U,0,"As the couple/danced,/the tango/began to be/played by a live orchestra."
+Grodner,26,Z,U,0,"After the kids/cheated,/the teacher/had them sit/at separate desks and think about what they had done."
+Grodner,27,Z,U,0,"After the mugger/attacked,/the jogger/was rubbing his/sore leg but it didn't help."
+Grodner,28,Z,U,0,"Even though the girl/phoned,/the instructor/was very upset/with her for missing a lesson."
+Grodner,29,Z,U,0,"Even though the janitor/vacuumed,/the carpet/was covered with/dust and crumbs from the office party."
+Grodner,30,Z,U,0,"Although the candidates/debated,/the issues/were overlooked by/most of the media who covered the campaign."
+Grodner,31,Z,U,0,"Because the train/stopped,/the traffic/was rerouted through/side streets for several hours."
+Grodner,32,Z,U,0,"In case the team/lost,/the tie-breaker/was scheduled for/the following week at the local park."
+Grodner,33,Z,U,0,"After the librarian/called,/the intern/began returning books/to the shelves."
+Grodner,34,Z,U,0,"Even though the army/surrendered,/the territory/was filled with/land mines that still had to be cleared."
+Grodner,35,Z,U,0,"While the narrator/read,/the story/was dramatized by/the troop of skilled actors."
+Grodner,36,Z,U,0,"Before the tribe/worshipped,/the idol/was placed on/a large platform."
+Grodner,37,Z,U,0,"In case the manager/quit,/the company/began training new/staff in several departments."
+Grodner,38,Z,U,0,"As the customer/paid,/the waitress/could see how/large the tip was."
+Grodner,39,Z,U,0,"While the artist/painted,/the furniture/was covered with/white cloths to shield it from dust."
+Grodner,0,S,A,1,The employees/who initiated the strike/understood/the contract/would be changed/very soon to accommodate all parties
+Grodner,1,S,A,1,The mechanic/who repaired dented vehicles/accepted/the car/looked in worse/shape than before he worked on it.
+Grodner,2,S,A,1,The old man/who fractured his skull/recalled/the nurse/had complained to/the doctor that the patient never took his medication.
+Grodner,3,S,A,1,The traveler/who stayed at the hotel/heard/the clock/had woken everybody/up in the youth hostel.
+Grodner,4,S,A,1,The journalist/who read the bulletin/confirmed/the story/would be published/on the front page the next day.
+Grodner,5,S,A,1,The worker/who hurt his back/maintained/the walls/fell down in/a heap before he arrived.
+Grodner,6,S,A,1,The apprentice/who wanted fresh air/forgot/the bicycle/was standing in/the garage next to the car.
+Grodner,7,S,A,1,The committee/which selected the location/mentioned/the issue/would cause a/problem at the meeting.
+Grodner,8,S,A,1,The army/which invaded the country/found/the supplies/saved many lives/during the long conflict.
+Grodner,9,S,A,1,The umpire/who officiated the double-header/warned/the spectators/would probably get/too rowdy if beer was served.
+Grodner,10,S,A,1,The coach/who scouted new talent/discovered/the player/tried to show/off all the time.
+Grodner,11,S,A,1,The woman/who proofread the ads/noticed/the flyer/had the wrong/address listed on the front.
+Grodner,12,S,A,1,The tourists/who visited the kingdom/saw/the palace/was being restored/to its original condition.
+Grodner,13,S,A,1,The scientist/who designed large trucks/proved/the theory/could help build/cars with better mileage.
+Grodner,14,S,A,1,The soldiers/who witnessed the battle/remembered/the town/had been flattened/in the bombing raid.
+Grodner,15,S,A,1,The priest/who performed the ceremony/recognized/two guests/were necessary for/the marriage to be legal.
+Grodner,16,S,A,1,The reporter/who worked for the Globe/revealed/the politician/received some payments/from the unscrupulous millionaire.
+Grodner,17,S,A,1,The owners/who purchased the estate/insured/the house/would never get/flooded again when it rained.
+Grodner,18,S,A,1,The lawyer/who questioned the witness/established/the alibi/was not sufficient/to free the defendant from blame.
+Grodner,19,S,A,1,The store/which sold used appliances/guaranteed/the television/would last for/ten years without failing.
+Grodner,20,Z,A,1,Even though the band/which played funk music/left/the party/went on for/at least another two hours.
+Grodner,21,Z,A,1,In case the executive/who lost the organizer/forgot/the assistant/would remind him/of his daily meetings and appointments.
+Grodner,22,Z,A,1,Although the maid/who wore a uniform/cleaned/the house/was still in/a state of total chaos.
+Grodner,23,Z,A,1,Because the class/that memorized the constitution/failed/the exam/was rewritten by/the teacher so it was much easier.
+Grodner,24,Z,A,1,Once the child/who rehearsed the sonata/played/the piano/was moved to/the corner of the room.
+Grodner,25,Z,A,1,As the couple/who loved ballroom music/danced/the tango/began to be/played by a live orchestra.
+Grodner,26,Z,A,1,After the kids/who stole the test/cheated/the teacher/had them sit/at separate desks and think about what they had done.
+Grodner,27,Z,A,1,After the mugger/who wielded a club/attacked/the jogger/was rubbing his/sore leg but it didn't help.
+Grodner,28,Z,A,1,Even though the girl/who forgot her watch/phoned/the instructor/was very upset/with her for missing a lesson.
+Grodner,29,Z,A,1,Even though the janitor/who cleaned the office/vacuumed/the carpet/was covered with/dust and crumbs from the office party.
+Grodner,30,Z,A,1,Although the candidates/who bought many votes/debated/the issues/were overlooked by/most of the media who covered the campaign.
+Grodner,31,Z,A,1,Because the train/which spewed dark smoke/stopped/the traffic/was rerouted through/side streets for several hours.
+Grodner,32,Z,A,1,In case the team/which fired their coach/lost/the tie-breaker/was scheduled for/the following week at the local park.
+Grodner,33,Z,A,1,After the librarian/who supervised the staff/called/the intern/began returning books/to the shelves.
+Grodner,34,Z,A,1,Even though the army/which guarded the border/surrendered/the territory/was filled with/land mines that still had to be cleared.
+Grodner,35,Z,A,1,While the narrator/who caught a cold/read/the story/was dramatized by/the troop of skilled actors.
+Grodner,36,Z,A,1,Before the tribe/which pierced their lips/worshipped/the idol/was placed on/a large platform.
+Grodner,37,Z,A,1,In case the manager/who won several awards/quit/the company/began training new/staff in several departments.
+Grodner,38,Z,A,1,As the customer/who hated the meal/paid/the waitress/could see how/large the tip was.
+Grodner,39,Z,A,1,While the artist/who decorated the house/painted/the furniture/was covered with/white cloths to shield it from dust.
+Grodner,0,S,U,1,The employees/who initiated the strike/understood/that/the contract/would be changed/very soon to accommodate all parties
+Grodner,1,S,U,1,The mechanic/who repaired dented vehicles/accepted/that/the car/looked in worse/shape than before he worked on it.
+Grodner,2,S,U,1,The old man/who fractured his skull/recalled/that/the nurse/had complained to/the doctor that the patient never took his medication.
+Grodner,3,S,U,1,The traveler/who stayed at the hotel/heard/that/the clock/had woken everybody/up in the youth hostel.
+Grodner,4,S,U,1,The journalist/who read the bulletin/confirmed/that/the story/would be published/on the front page the next day.
+Grodner,5,S,U,1,The worker/who hurt his back/maintained/that/the walls/fell down in/a heap before he arrived.
+Grodner,6,S,U,1,The apprentice/who wanted fresh air/forgot/that/the bicycle/was standing in/the garage next to the car.
+Grodner,7,S,U,1,The committee/which selected the location/mentioned/that/the issue/would cause a/problem at the meeting.
+Grodner,8,S,U,1,The army/which invaded the country/found/that/the supplies/saved many lives/during the long conflict.
+Grodner,9,S,U,1,The umpire/who officiated the double-header/warned/that/the spectators/would probably get/too rowdy if beer was served.
+Grodner,10,S,U,1,The coach/who scouted new talent/discovered/that/the player/tried to show/off all the time.
+Grodner,11,S,U,1,The woman/who proofread the ads/noticed/that/the flyer/had the wrong/address listed on the front.
+Grodner,12,S,U,1,The tourists/who visited the kingdom/saw/that/the palace/was being restored/to its original condition.
+Grodner,13,S,U,1,The scientist/who designed large trucks/proved/that/the theory/could help build/cars with better mileage.
+Grodner,14,S,U,1,The soldiers/who witnessed the battle/remembered/that/the town/had been flattened/in the bombing raid.
+Grodner,15,S,U,1,The priest/who performed the ceremony/recognized/that/two guests/were necessary for/the marriage to be legal.
+Grodner,16,S,U,1,The reporter/who worked for the Globe/revealed/that/the politician/received some payments/from the unscrupulous millionaire.
+Grodner,17,S,U,1,The owners/who purchased the estate/insured/that/the house/would never get/flooded again when it rained.
+Grodner,18,S,U,1,The lawyer/who questioned the witness/established/that/the alibi/was not sufficient/to free the defendant from blame.
+Grodner,19,S,U,1,The store/which sold used appliances/guaranteed/that/the television/would last for/ten years without failing.
+Grodner,20,Z,U,1,"Even though the band/which played funk music/left,/the party/went on for/at least another two hours."
+Grodner,21,Z,U,1,"In case the executive/who lost the organizer/forgot,/the assistant/would remind him/of his daily meetings and appointments."
+Grodner,22,Z,U,1,"Although the maid/who wore a uniform/cleaned,/the house/was still in/a state of total chaos."
+Grodner,23,Z,U,1,"Because the class/that memorized the constitution/failed,/the exam/was rewritten by/the teacher so it was much easier."
+Grodner,24,Z,U,1,"Once the child/who rehearsed the sonata/played,/the piano/was moved to/the corner of the room."
+Grodner,25,Z,U,1,"As the couple/who loved ballroom music/danced,/the tango/began to be/played by a live orchestra."
+Grodner,26,Z,U,1,"After the kids/who stole the test/cheated,/the teacher/had them sit/at separate desks and think about what they had done."
+Grodner,27,Z,U,1,"After the mugger/who wielded a club/attacked,/the jogger/was rubbing his/sore leg but it didn't help."
+Grodner,28,Z,U,1,"Even though the girl/who forgot her watch/phoned,/the instructor/was very upset/with her for missing a lesson."
+Grodner,29,Z,U,1,"Even though the janitor/who cleaned the office/vacuumed,/the carpet/was covered with/dust and crumbs from the office party."
+Grodner,30,Z,U,1,"Although the candidates/who bought many votes/debated,/the issues/were overlooked by/most of the media who covered the campaign."
+Grodner,31,Z,U,1,"Because the train/which spewed dark smoke/stopped,/the traffic/was rerouted through/side streets for several hours."
+Grodner,32,Z,U,1,"In case the team/which fired their coach/lost,/the tie-breaker/was scheduled for/the following week at the local park."
+Grodner,33,Z,U,1,"After the librarian/who supervised the staff/called,/the intern/began returning books/to the shelves."
+Grodner,34,Z,U,1,"Even though the army/which guarded the border/surrendered,/the territory/was filled with/land mines that still had to be cleared."
+Grodner,35,Z,U,1,"While the narrator/who caught a cold/read,/the story/was dramatized by/the troop of skilled actors."
+Grodner,36,Z,U,1,"Before the tribe/which pierced their lips/worshipped,/the idol/was placed on/a large platform."
+Grodner,37,Z,U,1,"In case the manager/who won several awards/quit,/the company/began training new/staff in several departments."
+Grodner,38,Z,U,1,"As the customer/who hated the meal/paid,/the waitress/could see how/large the tip was."
+Grodner,39,Z,U,1,"While the artist/who decorated the house/painted,/the furniture/was covered with/white cloths to shield it from dust."
+Sturt,0,S,A,-1,The faithful employees/understood the technical contract/would be changed/very soon.
+Sturt,1,S,A,-1,The American diplomats/understood the unpopular treaty/would be altered/at the conference.
+Sturt,2,S,A,-1,The young woman/accepted the valuable trophy/had to be returned/to the committee.
+Sturt,3,S,A,-1,The young man/accepted the enormous car/looked more expensive/than before.
+Sturt,4,S,A,-1,The extremely old man/recalled the angry nurse/had complained/to the doctor.
+Sturt,5,S,A,-1,The foreign traveller/heard the loud clock/had woken everybody up/in the youth hostel.
+Sturt,6,S,A,-1,The tabloid journalist/confirmed the sensational/story would be published/on the front page.
+Sturt,7,S,A,-1,The construction workers/maintained the rickety walls/fell down/in a heap.
+Sturt,8,S,A,-1,The clumsy apprentice/forgot the rusty bicycle/was standing/in the garage.
+Sturt,9,S,A,-1,The industrial committee/mentioned the complex issue/would cause a problem/at the meeting.
+Sturt,10,S,A,-1,The British army/found the expensive medical supplies/saved many lives/during the conflict.
+Sturt,11,S,A,-1,The Labour candidate/found the secret documents/could be very useful/to the press.
+Sturt,12,S,A,-1,The chartered accountants/announced the impressive results/had appeared/in the report.
+Sturt,13,S,A,-1,The corporate lawyers/announced the controversial proposals/would be sent/for approval.
+Sturt,14,S,A,-1,The tall football manager/discovered the skillful player/tried to show off/all the time.
+Sturt,15,S,A,-1,The tall theatre director/discovered the young actor/got stage fright/very badly.
+Sturt,16,S,A,-1,The young woman/noticed the fluffy sweater/changed shape/quite badly.
+Sturt,17,S,A,-1,The younger children/noticed the woollen socks/were the wrong colour/for school.
+Sturt,18,S,A,-1,The Japanese coach party/saw the famous palace/was being restored/very carefully.
+Sturt,19,S,A,-1,The Australian woman/saw the famous doctor/had been drinking/quite a lot.
+Sturt,20,S,A,-1,The old market researcher/acknowledged the clever assistant/worked very hard/on the project.
+Sturt,21,S,A,-1,The tall lawyer/acknowledged the young witness/had been successful/in convincing the jury.
+Sturt,22,S,A,-1,The tall knights/remembered the ancient castle/had been defended/very heavily.
+Sturt,23,S,A,-1,The tall fighter pilots/remembered the camouflaged airfield/was evacuated/very quickly.
+Sturt,24,S,A,-1,The old soldiers/remembered the industrial town/had been flattened/in the bombing raid.
+Sturt,25,S,A,-1,The big policemen/remembered the remote peace camp/had been filmed/by the BBC.
+Sturt,26,S,A,-1,The academic publisher/read the controversial manuscript/had been reviewed/by a professor.
+Sturt,27,S,A,-1,The contemporary fashion writer/read the famous magazine/was having trouble/with its finances.
+Sturt,28,S,A,-1,The tall archaeologist/revealed the valuable coins/had gone missing/from the site.
+Sturt,29,S,A,-1,The French male stripper/revealed his oily chest/felt uncomfortable/in the heat.
+Sturt,30,S,A,-1,The young journalist/revealed the corrupt politician/received some payments/from the millionaire.
+Sturt,31,S,A,-1,The old secretary/doubted the incriminating report/would be distributed/to many people.
+Sturt,32,Z,A,-1,Because the employees/negotiated the technical contract/would be changed/very soon.
+Sturt,33,Z,A,-1,Because the diplomats/negotiated the unpopular treaty/would be altered/at the conference.
+Sturt,34,Z,A,-1,After the woman/polished the valuable trophy/had to be returned/to the committee.
+Sturt,35,Z,A,-1,After the man/polished the enormous car/looked more expensive/than before.
+Sturt,36,Z,A,-1,Whenever the old man/scratched the angry nurse/had complained/to the doctor.
+Sturt,37,Z,A,-1,Before the traveller/packed the loud clock/had woken everybody up/in the youth hostel.
+Sturt,38,Z,A,-1,Hours after the journalist/typed the sensational story/would be published/on the front page.
+Sturt,39,Z,A,-1,After the construction worker/built the rickety walls/fell down/in a heap.
+Sturt,40,Z,A,-1,While the apprentice/painted the rusty bicycle/was standing/in the garage.
+Sturt,41,Z,A,-1,However much the committee/debated the complex issue/would cause a problem/at the meeting.
+Sturt,42,Z,A,-1,Although the army/lost the expensive medical supplies/saved many lives/during the conflict.
+Sturt,43,Z,A,-1,If the Tory candidate/lost the secret documents/could be very useful/to the press.
+Sturt,44,Z,A,-1,Before the accountants/investigated the impressive results/had appeared/in the report.
+Sturt,45,Z,A,-1,Before the lawyers/investigated the controversial proposals/would be sent/for approval.
+Sturt,46,Z,A,-1,Because the football manager/watched the skillful player/tried to show off/all the time.
+Sturt,47,Z,A,-1,Because the theatre director/watched the young actor/got stage fright/very badly.
+Sturt,48,Z,A,-1,While the woman/knitted the fluffy sweater/changed shape/quite badly.
+Sturt,49,Z,A,-1,Because the children/knitted the woollen socks/were the wrong colour/for school.
+Sturt,50,Z,A,-1,When the coach party/visited the famous palace/was being restored/very carefully.
+Sturt,51,Z,A,-1,Before the woman/visited the famous doctor/had been drinking/quite a lot.
+Sturt,52,Z,A,-1,While the market researcher/questioned the clever assistant/worked very hard/on the project.
+Sturt,53,Z,A,-1,Before the lawyer/questioned the young witness/had been successful/in convincing the jury.
+Sturt,54,Z,A,-1,Before the knights/attacked the ancient castle/had been defended/very heavily.
+Sturt,55,Z,A,-1,Before the fighter pilots/attacked the camouflaged airfield/was evacuated/very quickly.
+Sturt,56,Z,A,-1,Before the soldiers/invaded the industrial town/had been flattened/in the bombing raid.
+Sturt,57,Z,A,-1,Before the policemen/invaded the remote peace camp/had been filmed/by the BBC.
+Sturt,58,Z,A,-1,Before the publisher/edited the controversial manuscript/had been reviewed/by a professor.
+Sturt,59,Z,A,-1,Even after the fashion writer/edited the famous magazine/was having trouble/with its finances.
+Sturt,60,Z,A,-1,Before the archaeologist/washed the valuable coins/had gone missing/from the site.
+Sturt,61,Z,A,-1,Whenever the male stripper/washed his oily chest/felt uncomfortable/in the heat.
+Sturt,62,Z,A,-1,While the journalist/followed the corrupt politician/received some payments/from the millionaire.
+Sturt,63,Z,A,-1,After the secretary/typed the incriminating report/would be distributed/to many people.
+Sturt,0,S,U,-1,The faithful employees/understood that the technical contract/would be changed/very soon.
+Sturt,1,S,U,-1,The American diplomats/understood that the unpopular treaty/would be altered/at the conference.
+Sturt,2,S,U,-1,The young woman/accepted that the valuable trophy/had to be returned/to the committee.
+Sturt,3,S,U,-1,The young man/accepted that the enormous car/looked more expensive/than before.
+Sturt,4,S,U,-1,The extremely old man/recalled that the angry nurse/had complained/to the doctor.
+Sturt,5,S,U,-1,The foreign traveller/heard that the loud clock/had woken everybody up/in the youth hostel.
+Sturt,6,S,U,-1,The tabloid journalist/confirmed that the sensational/story would be published/on the front page.
+Sturt,7,S,U,-1,The construction workers/maintained that the rickety walls/fell down/in a heap.
+Sturt,8,S,U,-1,The clumsy apprentice/forgot that the rusty bicycle/was standing/in the garage.
+Sturt,9,S,U,-1,The industrial committee/mentioned that the complex issue/would cause a problem/at the meeting.
+Sturt,10,S,U,-1,The British army/found that the expensive medical supplies/saved many lives/during the conflict.
+Sturt,11,S,U,-1,The Labour candidate/found that the secret documents/could be very useful/to the press.
+Sturt,12,S,U,-1,The chartered accountants/announced that the impressive results/had appeared/in the report.
+Sturt,13,S,U,-1,The corporate lawyers/announced that the controversial proposals/would be sent/for approval.
+Sturt,14,S,U,-1,The tall football manager/discovered that the skillful player/tried to show off/all the time.
+Sturt,15,S,U,-1,The tall theatre director/discovered that the young actor/got stage fright/very badly.
+Sturt,16,S,U,-1,The young woman/noticed that the fluffy sweater/changed shape/quite badly.
+Sturt,17,S,U,-1,The younger children/noticed that the woollen socks/were the wrong colour/for school.
+Sturt,18,S,U,-1,The Japanese coach party/saw that the famous palace/was being restored/very carefully.
+Sturt,19,S,U,-1,The Australian woman/saw that the famous doctor/had been drinking/quite a lot.
+Sturt,20,S,U,-1,The old market researcher/acknowledged that the clever assistant/worked very hard/on the project.
+Sturt,21,S,U,-1,The tall lawyer/acknowledged that the young witness/had been successful/in convincing the jury.
+Sturt,22,S,U,-1,The tall knights/remembered that the ancient castle/had been defended/very heavily.
+Sturt,23,S,U,-1,The tall fighter pilots/remembered that the camouflaged airfield/was evacuated/very quickly.
+Sturt,24,S,U,-1,The old soldiers/remembered that the industrial town/had been flattened/in the bombing raid.
+Sturt,25,S,U,-1,The big policemen/remembered that the remote peace camp/had been filmed/by the BBC.
+Sturt,26,S,U,-1,The academic publisher/read that the controversial manuscript/had been reviewed/by a professor.
+Sturt,27,S,U,-1,The contemporary fashion writer/read that the famous magazine/was having trouble/with its finances.
+Sturt,28,S,U,-1,The tall archaeologist/revealed that the valuable coins/had gone missing/from the site.
+Sturt,29,S,U,-1,The French male stripper/revealed that his oily chest/felt uncomfortable/in the heat.
+Sturt,30,S,U,-1,The young journalist/revealed that the corrupt politician/received some payments/from the millionaire.
+Sturt,31,S,U,-1,The old secretary/doubted that the incriminating report/would be distributed/to many people.
+Sturt,32,Z,U,-1,"Because the employees/negotiated, the technical contract/would be changed/very soon."
+Sturt,33,Z,U,-1,"Because the diplomats/negotiated, the unpopular treaty/would be altered/at the conference."
+Sturt,34,Z,U,-1,"After the woman/polished, the valuable trophy/had to be returned/to the committee."
+Sturt,35,Z,U,-1,"After the man/polished, the enormous car/looked more expensive/than before."
+Sturt,36,Z,U,-1,"Whenever the old man/scratched, the angry nurse/had complained/to the doctor."
+Sturt,37,Z,U,-1,"Before the traveller/packed, the loud clock/had woken everybody up/in the youth hostel."
+Sturt,38,Z,U,-1,"Hours after the journalist/typed, the sensational story/would be published/on the front page."
+Sturt,39,Z,U,-1,"After the construction worker/built, the rickety walls/fell down/in a heap."
+Sturt,40,Z,U,-1,"While the apprentice/painted, the rusty bicycle/was standing/in the garage."
+Sturt,41,Z,U,-1,"However much the committee/debated, the complex issue/would cause a problem/at the meeting."
+Sturt,42,Z,U,-1,"Although the army/lost, the expensive medical supplies/saved many lives/during the conflict."
+Sturt,43,Z,U,-1,"If the Tory candidate/lost, the secret documents/could be very useful/to the press."
+Sturt,44,Z,U,-1,"Before the accountants/investigated, the impressive results/had appeared/in the report."
+Sturt,45,Z,U,-1,"Before the lawyers/investigated, the controversial proposals/would be sent/for approval."
+Sturt,46,Z,U,-1,"Because the football manager/watched, the skillful player/tried to show off/all the time."
+Sturt,47,Z,U,-1,"Because the theatre director/watched, the young actor/got stage fright/very badly."
+Sturt,48,Z,U,-1,"While the woman/knitted, the fluffy sweater/changed shape/quite badly."
+Sturt,49,Z,U,-1,"Because the children/knitted, the woollen socks/were the wrong colour/for school."
+Sturt,50,Z,U,-1,"When the coach party/visited, the famous palace/was being restored/very carefully."
+Sturt,51,Z,U,-1,"Before the woman/visited, the famous doctor/had been drinking/quite a lot."
+Sturt,52,Z,U,-1,"While the market researcher/questioned, the clever assistant/worked very hard/on the project."
+Sturt,53,Z,U,-1,"Before the lawyer/questioned, the young witness/had been successful/in convincing the jury."
+Sturt,54,Z,U,-1,"Before the knights/attacked, the ancient castle/had been defended/very heavily."
+Sturt,55,Z,U,-1,"Before the fighter pilots/attacked, the camouflaged airfield/was evacuated/very quickly."
+Sturt,56,Z,U,-1,"Before the soldiers/invaded, the industrial town/had been flattened/in the bombing raid."
+Sturt,57,Z,U,-1,"Before the policemen/invaded, the remote peace camp/had been filmed/by the BBC."
+Sturt,58,Z,U,-1,"Before the publisher/edited, the controversial manuscript/had been reviewed/by a professor."
+Sturt,59,Z,U,-1,"Even after the fashion writer/edited, the famous magazine/was having trouble/with its finances."
+Sturt,60,Z,U,-1,"Before the archaeologist/washed, the valuable coins/had gone missing/from the site."
+Sturt,61,Z,U,-1,"Whenever the male stripper/washed, his oily chest/felt uncomfortable/in the heat."
+Sturt,62,Z,U,-1,"While the journalist/followed, the corrupt politician/received some payments/from the millionaire."
+Sturt,63,Z,U,-1,"After the secretary/typed, the incriminating report/would be distributed/to many people."
